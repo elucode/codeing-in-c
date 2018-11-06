@@ -1,5 +1,10 @@
 # coding-in-c
 
-+ my first tries in C
-+ Setting up atom
+## Aims of this repo
++ first tries in C
++ Usage of atom
 + Usage of GitHub
++ Usage of Markdown
+
+## lessons
++ hello world
