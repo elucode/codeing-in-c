@@ -1,5 +1,0 @@
-C:\Users\mase\Desktop\PROJEKTE\inputoutput.c: In function 'main':
-C:\Users\mase\Desktop\PROJEKTE\inputoutput.c:6:15: error: 'alter' undeclared (first use in this function)
- sscanf("%d", &alter);
-               ^~~~~
-C:\Users\mase\Desktop\PROJEKTE\inputoutput.c:6:15: note: each undeclared identifier is reported only once for each function it appears in
