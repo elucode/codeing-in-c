@@ -10,7 +10,10 @@
 + 1helloworld.c (filename must end with .c not .cpp)
 + 2datatyps.c (showing different datatyps )
 + 3inputoutput.c (respect the %d)
-+ 4simplecalc.c 
++ 4simplecalc.c
++ 5deandincrement.c
++ 6controlstatementIF.c
++ 7whileloop.c
 
 ## Resources
 + Franneck
