@@ -6,5 +6,8 @@
 + Usage of GitHub
 + Usage of Markdown
 
-## lessons
-+ hello world
+## Lessons
++ hello world (filename must end with .c not .cpp)
+
+## Resources
++
