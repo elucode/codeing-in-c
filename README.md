@@ -14,6 +14,11 @@
 + 5deandincrement.c
 + 6controlstatementIF.c
 + 7whileloop.c
++ 8whileloop.c
++ 9forloop.c
++ 10functions.c
++ 11arrays.c
 
 ## Resources
++ http://www.c-howto.de/
 + Franneck
