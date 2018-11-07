@@ -7,7 +7,7 @@
 + Usage of Markdown
 
 ## Lessons
-+ hello world (filename must end with .c not .cpp)
++ 1helloworld.c (filename must end with .c not .cpp)
 
 ## Resources
 +
