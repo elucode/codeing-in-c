@@ -21,7 +21,7 @@
 
 ## Resources
 + http://www.c-howto.de/
-+ https://www.youtube.com/watch?v=x-2ZCkS3OHY&list=PLNmsVeXQZj7q4shI4L__SRpetWff9BjLZ
++ [Morpheus Tutorial](https://www.youtube.com/watch?v=x-2ZCkS3OHY&list=PLNmsVeXQZj7q4shI4L__SRpetWff9BjLZ "geilopeilo")
 + Tutorial to Pointer
 ++ https://www.youtube.com/watch?v=2bMUyYTawEo
 ++ https://www.youtube.com/watch?v=e2oUCDel0ZE
